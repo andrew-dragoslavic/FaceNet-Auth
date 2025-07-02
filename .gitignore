@@ -1,3 +1,5 @@
 .venv/
 
 aligned_faces/
+
+.env
